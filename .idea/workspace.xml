@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="new app">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button/Button.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Paragraph/Paragraph.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Paragraph/Paragraph.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Paragraph/Paragraph.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Rating/Rating.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Rating/Rating.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Rating/Rating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Rating/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tag/Tag.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tag/Tag.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tag/Tag.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/BaseLayout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/BaseLayout.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/BaseLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/components/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +46,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -39,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -53,6 +84,14 @@
     <property name="settings.editor.selected.configurable" value="configurable.stylesheets.stylelint" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layout/components" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.debug">
     <configuration name="debug" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -93,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637861305222</updated>
-      <workItem from="1637861307548" duration="13811000" />
+      <workItem from="1637861307548" duration="38568000" />
     </task>
     <task id="LOCAL-00001" summary="new app">
       <created>1638014013970</created>
@@ -109,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638014100391</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new app">
+      <created>1638014218674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638014218674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
