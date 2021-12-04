@@ -4,38 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="new app">
-      <change afterPath="$PROJECT_DIR$/components/Button/Button.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Button/Button.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Button/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Button/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Paragraph/Paragraph.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Paragraph/Paragraph.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Paragraph/Paragraph.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Rating/Rating.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Rating/Rating.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Rating/Rating.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Rating/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Tag/Tag.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Tag/Tag.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Tag/Tag.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/BaseLayout.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/BaseLayout.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/BaseLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/components/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="adding new components">
+      <change afterPath="$PROJECT_DIR$/context/app.context.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/menu.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/page.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/product.interface.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/courses/[alias].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/hat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/products.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/BaseLayout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/BaseLayout.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/BaseLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/BaseLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Footer/Footer.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Header/Header.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Header/Header.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +40,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
         <option value="CSS File" />
-        <option value="TypeScript JSX File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.env.local" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/interfaces/menu.interface.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/layout/BaseLayout.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pages/index.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="21Q79P4YS6eqNUiggxrRx4Q07Uk" />
   <component name="ProjectLevelVcsManager">
@@ -66,10 +70,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env.local" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -132,7 +138,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637861305222</updated>
-      <workItem from="1637861307548" duration="38568000" />
+      <workItem from="1637861307548" duration="60676000" />
+      <workItem from="1638264884812" duration="39876000" />
     </task>
     <task id="LOCAL-00001" summary="new app">
       <created>1638014013970</created>
@@ -155,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638014218674</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding new components">
+      <created>1638101232558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638101232558</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new app" />
-    <option name="LAST_COMMIT_MESSAGE" value="new app" />
+    <MESSAGE value="adding new components" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new components" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

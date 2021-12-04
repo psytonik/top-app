@@ -1,1 +1,1 @@
-import React from 'react';const Header = () => {    return (        <div>                    </div>    );};export default Header;
+import React from 'react';import {HeaderProps} from "./Header.props";const Header = ({...props}:HeaderProps):JSX.Element => {    return (        <div {...props}>            Header        </div>    );};export default Header;
