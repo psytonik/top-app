@@ -4,33 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="adding new components">
-      <change afterPath="$PROJECT_DIR$/context/app.context.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/menu.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/page.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/product.interface.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/courses/[alias].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/book.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/cloud.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/hat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/products.svg" afterDir="false" />
+    <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="working on menu">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/BaseLayout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/BaseLayout.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/BaseLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/BaseLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Footer/Footer.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.props.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Footer/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Header/Header.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Header/Header.props.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.props.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637861305222</updated>
       <workItem from="1637861307548" duration="60676000" />
-      <workItem from="1638264884812" duration="39876000" />
+      <workItem from="1638264884812" duration="41864000" />
     </task>
     <task id="LOCAL-00001" summary="new app">
       <created>1638014013970</created>
@@ -169,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638101232558</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="working on menu">
+      <created>1638610353551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638610353551</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +174,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new app" />
     <MESSAGE value="adding new components" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding new components" />
+    <MESSAGE value="working on menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on menu" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
