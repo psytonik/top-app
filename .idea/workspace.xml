@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="working on menu">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="fixed a component in menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Menu/Menu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637861305222</updated>
       <workItem from="1637861307548" duration="60676000" />
-      <workItem from="1638264884812" duration="41864000" />
+      <workItem from="1638264884812" duration="44138000" />
     </task>
     <task id="LOCAL-00001" summary="new app">
       <created>1638014013970</created>
@@ -153,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638610353551</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed a component in menu">
+      <created>1638612295624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638612295624</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed a component in menu">
+      <created>1638612417674</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638612417674</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +189,8 @@
     <MESSAGE value="new app" />
     <MESSAGE value="adding new components" />
     <MESSAGE value="working on menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on menu" />
+    <MESSAGE value="fixed a component in menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed a component in menu" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
