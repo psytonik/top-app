@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="fixed a component in menu">
+      <change afterPath="$PROJECT_DIR$/helpers/helpers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/[type]/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Menu/Menu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Menu/Menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/courses/[alias].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/[type]/[alias].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/book.svg" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/icons/book.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/icons/cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/hat.svg" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/icons/hat.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/products.svg" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/icons/products.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +31,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
-        <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -51,6 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.env.local" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
@@ -73,6 +88,8 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/helpers" />
       <recent name="$PROJECT_DIR$/layout/components" />
     </key>
   </component>
@@ -116,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637861305222</updated>
       <workItem from="1637861307548" duration="60676000" />
-      <workItem from="1638264884812" duration="44138000" />
+      <workItem from="1638264884812" duration="58068000" />
     </task>
     <task id="LOCAL-00001" summary="new app">
       <created>1638014013970</created>
@@ -167,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638612417674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed a component in menu">
+      <created>1638614789214</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638614789214</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
