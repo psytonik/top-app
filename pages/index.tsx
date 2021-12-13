@@ -1,4 +1,4 @@
-import {Htag, Button, Paragraph, Tag} from "../components";
+import {Htag, Button, Paragraph, Tag, Input, Textarea} from "../components";
 import Rating from "../components/Rating/Rating";
 import React, {useState} from "react";
 import withLayout from "../layout/BaseLayout";
@@ -7,7 +7,10 @@ import axios from "axios";
 import {MenuItem} from "../interfaces/menu.interface";
 
 const Home = ({menu}:HomeProps):JSX.Element => {
+    console.log(menu);
     const [value,setValue] = useState<number>(0);
+
+    
   return (
       <>
           <Htag tag="h1">Hello World</Htag>
@@ -19,6 +22,9 @@ const Home = ({menu}:HomeProps):JSX.Element => {
           <Tag size="sm" color="red">Hello Moto</Tag>
           <Tag size="md" color="primary" href="https://oneclickpharm.net">OneClickPharm</Tag>
           <Rating rating={value} isEditable={true} setRating={setValue}/>
+          <Input placeholder={'Name'}/>
+          <Textarea placeholder="description"/>
+
       </>
   );
 };
