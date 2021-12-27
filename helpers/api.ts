@@ -1,0 +1,1 @@
+export const _domain = process.env.NEXT_PUBLIC_DOMAIN;export const API = {    topPage:{        find:_domain + '/api/top-page/find',        byAlias:_domain + '/api/top-page/byAlias/',    },    product:{        find: _domain + '/api/product/find'    },    review:{        createDemo:_domain + '/api/review/create-demo'    }};
