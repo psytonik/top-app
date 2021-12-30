@@ -4,58 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="fixed">
-      <change afterPath="$PROJECT_DIR$/components/Advantages/Advantages.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Advantages/Advantages.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Advantages/Advantages.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Advantages/icons/approve.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Card/Card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Card/Card.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Card/Card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Divider/Divider.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Divider/Divider.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Divider/Divider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/HhData/HhData.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/HhData/HhData.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/HhData/HhData.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/HhData/icons/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/HhData/icons/starColor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Input/Input.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Input/Input.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Input/Input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Product/Product.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Product/Product.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Product/Product.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Search/Search.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Search/Search.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Search/Search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Search/SearchIcon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sort/icon/Sort.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sort/sort.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sort/sort.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sort/sort.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TextArea/Textarea.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TextArea/Textarea.props.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TextArea/Textarea.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/sort.reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/star.svg" afterDir="false" />
+    <list default="true" id="0fbff30d-168d-4985-80d0-52f3a3f87631" name="Changes" comment="dynamic icon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Htag/Htag.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Htag/Htag.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/helpers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/helpers.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/page.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/page.interface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/product.interface.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/product.interface.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Search/Search.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Search/Search.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Up/Up.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Up/Up.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layout/BaseLayout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/BaseLayout.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Sidebar/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/components/Header/Header.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,23 +20,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="TypeScript JSX File" />
-        <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.env.local" root0="FORCE_HIGHLIGHTING" />
@@ -92,7 +38,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="21Q79P4YS6eqNUiggxrRx4Q07Uk" />
+  <component name="ProjectId" id="22x9MzqXEOVIJ4AB4RnjgvK81LK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -101,151 +47,39 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env.local" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.standard" value="true" />
-    <property name="node.js.detected.package.stylelint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.standard" value="" />
-    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.stylesheets.stylelint" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/components" />
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/components/HhData/icons" />
-      <recent name="$PROJECT_DIR$/pages" />
-      <recent name="$PROJECT_DIR$/helpers" />
-      <recent name="$PROJECT_DIR$/layout/components" />
+      <recent name="$PROJECT_DIR$/components/ButtonIcon" />
     </key>
-  </component>
-  <component name="RunManager" selected="npm.debug">
-    <configuration name="debug" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="debug" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="stylelint" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="stylelint" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="npm.stylelint" />
-      <item itemvalue="npm.debug" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.debug" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="a3b594ff-c115-49ea-82e9-bf0d446c5b59" name="Changes" comment="" />
-      <created>1637861305222</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1637861305222</updated>
-      <workItem from="1637861307548" duration="60676000" />
-      <workItem from="1638264884812" duration="63856000" />
-      <workItem from="1638738258851" duration="162000" />
-      <workItem from="1638902439712" duration="27046000" />
-      <workItem from="1639247179743" duration="19147000" />
-    </task>
-    <task id="LOCAL-00001" summary="new app">
-      <created>1638014013970</created>
+    <task id="LOCAL-00001" summary="dynamic icon">
+      <created>1640685622178</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1638014013970</updated>
+      <updated>1640685622178</updated>
     </task>
-    <task id="LOCAL-00002" summary="new app">
-      <created>1638014100391</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1638014100391</updated>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fbff30d-168d-4985-80d0-52f3a3f87631" name="Changes" comment="dynamic icon" />
+      <created>1640768332369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640768332369</updated>
+      <workItem from="1640768334944" duration="7708000" />
     </task>
-    <task id="LOCAL-00003" summary="new app">
-      <created>1638014218674</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1638014218674</updated>
-    </task>
-    <task id="LOCAL-00004" summary="adding new components">
-      <created>1638101232558</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1638101232558</updated>
-    </task>
-    <task id="LOCAL-00005" summary="working on menu">
-      <created>1638610353551</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1638610353551</updated>
-    </task>
-    <task id="LOCAL-00006" summary="fixed a component in menu">
-      <created>1638612295624</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1638612295624</updated>
-    </task>
-    <task id="LOCAL-00007" summary="fixed a component in menu">
-      <created>1638612417674</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1638612417674</updated>
-    </task>
-    <task id="LOCAL-00008" summary="fixed a component in menu">
-      <created>1638614789214</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1638614789214</updated>
-    </task>
-    <task id="LOCAL-00009" summary="added page component">
-      <created>1638710190417</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1638710190417</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,17 +97,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new app" />
-    <MESSAGE value="adding new components" />
-    <MESSAGE value="working on menu" />
-    <MESSAGE value="fixed a component in menu" />
-    <MESSAGE value="added page component" />
-    <MESSAGE value="fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <MESSAGE value="dynamic icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="dynamic icon" />
   </component>
 </project>
