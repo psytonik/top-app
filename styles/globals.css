@@ -15,18 +15,23 @@ a {
 * {
 	box-sizing: border-box;
 }
-
+.visuallyHidden {
+	width:0;
+	height:0;
+	overflow:hidden;
+	position: absolute;
+}
 :root {
 	--black: #3B434E;
 	--white: white;
 	--gray-light: #EBEBEB;
 	--gray:  #A4A4A4;
-	--gray-dark: #787D85;
-	--primary: #7653FC;
+	--gray-dark: #6c7077;
+	--primary: #7351f5;
 	--primary-hover: #2F21A0FF;
 	--red: #FC836D;
 	--light-red: #FEA291;
-	--green: #1DC37E;
+	--green: #007b48;
 	--green-light: #C8F8E4;
 	--font-family: "Ubuntu", sans-serif;
 }
